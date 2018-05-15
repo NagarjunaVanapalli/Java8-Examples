@@ -28,7 +28,7 @@ tmp/
 .factorypath
 
 # sbteclipse plugin
-*.target/
+target/
 
 # TeXlipse plugin
 .texlipse
