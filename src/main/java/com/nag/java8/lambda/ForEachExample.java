@@ -16,9 +16,9 @@ import java.util.Set;
 public class ForEachExample {
 
 	/**
-	 * Iterating Map
+	 * Iterating Map....
 	 *
-	 * @param employee Details
+	 * @param employeeDetails
 	 */
 	private void iterateMap(final Map<Integer, String> employeeDetails) {
 
