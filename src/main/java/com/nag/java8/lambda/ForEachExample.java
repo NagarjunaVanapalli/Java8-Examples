@@ -18,7 +18,7 @@ public class ForEachExample {
 	/**
 	 * Iterating Map
 	 *
-	 * @param employeeDetails
+	 * @param employee Details
 	 */
 	private void iterateMap(final Map<Integer, String> employeeDetails) {
 
