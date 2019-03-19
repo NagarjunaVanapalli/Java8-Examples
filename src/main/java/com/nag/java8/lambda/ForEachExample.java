@@ -10,7 +10,7 @@ import java.util.Set;
 /**
  * forEach iteration using JAVA 8 lambda expression
  * 
- * @author Nagarjuna Vanapalli - nagarjuna.dj@gmail.com
+ * @author Nagarjuna Vanapalli
  *
  */
 public class ForEachExample {
